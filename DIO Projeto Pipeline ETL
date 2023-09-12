@@ -1,0 +1,11 @@
+Bootcamp Santander - Ciência de Dados com Python da DIO
+Projeto Pipeline ETL
+
+Objetivo: 
+Criar um Pipeline ETL utilizando Python e ChatGPT
+
+Projeto
+
+Baseado no projeto que foi utilizado no Santander Dev Week 2023 deveriamos reproduzir o que o professor pedia a partir de um arquivo .csv, que tinha dados dos clientes, deveriamos extrair os o mesmo e a partir do perfil dos clientes, criar uma proposta de investimentos.
+ main
+
